@@ -2,6 +2,8 @@
 
 ###frontend repo --> https://github.com/atharva-bhatnagar/myways-chatapp-frontend
 
+### deployed frontend -->https://myways-chatapp-frontend.vercel.app/
+
 ##To setup the project on local env--> 
 1) clone the project  --> git clone https://github.com/atharva-bhatnagar/myways-chatapp-backend.git
 2) Open terminal in the location ofthe project and run npm install command
